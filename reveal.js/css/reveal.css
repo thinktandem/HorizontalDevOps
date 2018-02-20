@@ -1408,3 +1408,7 @@ body {
   width: 50%;
   text-align: left;
   font-size: 28px; }
+
+.reveal section div img.company-img {
+  border: none;
+  vertical-align: middle; }
