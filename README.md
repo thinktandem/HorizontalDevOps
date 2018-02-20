@@ -6,7 +6,7 @@ Often DevOps considiers a vertical silo of a project, what is the hosting, what 
 Differences Should not be the Norm
 ----------------------------------
 
-When comparing all your projects for the dev, test, and deploy pipelines look to see where they are different and if there is opportunity for considation.  That could be on:
+When comparing all your projects for the dev, test, and deploy pipelines look to see where they are different and if there is opportunity for consolidation.  That could be on:
 
   * Tooling
   * Process
@@ -23,6 +23,10 @@ Open up your docs!
 * [Tandem Docs](https://docs.thinktandem.io/) ~ you can view our docs today and see how we do it.
 
 That doesn't mean you have to do it that way too, but you can get a baseline or comparison for a way forward.
+
+* You should have a README.md for every project.
+* Follow a common pattern for the docs in this README.md file.
+* Reducing differnces in projects gives the opportunity to efficiently hightlight the differences of this project in the README.md withoug overwhelming the dev being onboarded.
 
 Interfaces Matter; Implementation is Irrelevant
 -----------------------------------------------
@@ -56,6 +60,7 @@ Selecting your tools can be a daunting task! Here are some guidelines we find us
 
 * Prefer Open Source
 * Choose flexible tools over a very specific tool
+* Is the project well known, have recent commits and a healthy issue queue?
 
 Don't be Dogmatic
 -----------------
