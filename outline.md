@@ -68,6 +68,7 @@ That doesn't mean you have to do it that way too, but you can get a baseline or 
 * You should have a README.md for every project.
 * Follow a common pattern for the docs in this README.md file.
 * Reducing differences in projects gives the opportunity to efficiently highlight the differences of this project in the README.md withoug overwhelming the dev being onboarded.
+* Employees should know how and feel comfortable contributing to the documentation.
 
 
 Interfaces Matter; Implementation is Irrelevant
@@ -81,7 +82,9 @@ Interfaces Matter; Implementation is Irrelevant
 
 ### Identify your interfaces: By identifying your interfaces you will learn what's expensive/hard to change and what's easy.
 
-### Actively work to refine/reduce your interfaces.  By doing this, you give developers the ability to pick up your projects quickly. 
+### Actively work to refine/reduce your interfaces.  By doing this, you give developers the ability to pick up your projects quickly.
+
+### Make concious decisions about the interfaces you choose.
 
 If you can offer a consistent DX accross all of your projects, then you can reduce ramp up time on getting a developer up and running and productive on a project.
 
@@ -102,6 +105,7 @@ If you do not have dedicated DevOps people you should. A lot of companies don't 
 - [ ] Give some of your team dedicated time to work on process, research tools, etc.
 - [ ] Don't be afraid of allowing your team to try new technologies (not in production).
 - [ ] Integrate your DevOps people to work with your development team.  They solve each other's problems if they know about them.
+- [ ] Avoid bus problems by having multiple people on the DevOps team.
 
 Tool Selection
 --------------
@@ -111,6 +115,7 @@ Selecting your tools can be a daunting task! Here are some guidelines we find us
 * Prefer Open Source
 * Choose flexible tools over a very specific tool
 * Is the project well known, have recent commits and a healthy issue queue?
+* Pick your battles.  You don't need to decide on every tool.  Eg: Developers can be more efficient if their Code editors/OS  are their own.
 
 Invest in Your Own Tools
 ---------------------
@@ -119,6 +124,7 @@ Caveat: Don't do this without a good reason.
 
 - [ ] You create value for your company by building something germain to your specific use case.
 - [ ] Open source your projects for glory and fame
+- [ ] Can actually feed back into the marketing/sales pipeline.
 
 Continuously Evaluate
 ---------------------
