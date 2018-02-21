@@ -3,6 +3,12 @@ Horizontal DevOps
 
 Often DevOps considiers a vertical silo of a project, what is the hosting, what is the dev pipeline, what is the QC and deploy pipeline.  That is important, but it is also important to step back and evaluate each of your projects verticals and compare and contrast them.
 
+Our Background
+--------------
+
+We both work in agencies that touch a lot of projects on a regular basis. We both work in small companies (15-25 people).  Our competitive advantages lie in doing DevOps well, both on our company's respective projects, and as DevOps consultants for other companies. [STORY (speaking to why we're experts in building repeatable processes)]
+
+
 Differences Should not be the Norm
 ----------------------------------
 
