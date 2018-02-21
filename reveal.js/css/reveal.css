@@ -1411,4 +1411,5 @@ body {
 
 .reveal section div img.company-img {
   border: none;
-  vertical-align: middle; }
+  vertical-align: middle;
+  max-width: 15%; }
