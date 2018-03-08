@@ -1405,12 +1405,28 @@ body {
  */
 .row .col-6 {
   float: left;
-  width: 50%;
+  width: 47%;
   text-align: left;
   font-size: 28px;
+  margin: 12px; }
+
+div.left,
+div.right {
+  width: 47%;
+  float: left;
+  text-align: left;
+  font-size: 22px;
   margin: 12px; }
 
 .reveal section div img.company-img {
   border: none;
   vertical-align: middle;
   max-width: 55px; }
+
+.reveal section img.side-by-side-img {
+  border: none;
+  margin-left: 13px;
+  margin-right: 13px;
+  float: left;
+  width: 44%;
+  height: 188px; }
