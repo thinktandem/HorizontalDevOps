@@ -1430,3 +1430,11 @@ div.right {
   float: left;
   width: 44%;
   height: 188px; }
+
+.reveal section .text-left {
+  text-align: left; }
+
+.reveal section .bullet {
+  margin-top: 7px;
+  margin-left: 22px;
+  font-size: 26px; }

@@ -47,3 +47,22 @@ Some of our Choices
     <li> Magnifico ... i.e Rob fill in this stuff</li>
   </ul>
 </div>
+
+----
+
+<div class="fragment fade-in">
+  Why does Lastcall use straight docker and Tandem use Lando?
+</div>
+
+<div class="fragment fade-in text-left">
+  Make a choice<br />
+  <div class="fragment fade-in text-left bullet">
+    &bull; "Plans are useless; planning is essential"
+  </div>
+  <div class="fragment fade-in text-left bullet">
+    &bull; Make a contious choice.
+  </div>
+  <div class="fragment fade-in text-left bullet">
+    &bull; Ship it!
+  </div>
+</div>
