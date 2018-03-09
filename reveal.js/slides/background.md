@@ -55,7 +55,7 @@ Some of our Choices
 </div>
 
 <div class="fragment fade-in text-left">
-  Make a choice<br />
+  Make choices<br />
   <div class="fragment fade-in text-left bullet">
     &bull; "Plans are useless; planning is essential"
   </div>

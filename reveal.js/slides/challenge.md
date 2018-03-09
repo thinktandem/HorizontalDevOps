@@ -10,7 +10,7 @@ There are Competing Needs
 -------------------------
 
 <div class="fragment fade-in text-left bullet">
-  &bull; Budgets
+  &bull; Client/Project Budgets
 </div>
 
 <div class="fragment fade-in text-left bullet">
@@ -19,4 +19,8 @@ There are Competing Needs
 
 <div class="fragment fade-in text-left bullet">
   &bull; Developers ~ new stuff
+</div>
+
+<div class="fragment fade-in text-left bullet">
+  &bull; Despite contention; work towards a defined process
 </div>
