@@ -1438,3 +1438,6 @@ div.right {
   margin-top: 7px;
   margin-left: 22px;
   font-size: 26px; }
+
+.reveal section div .quote {
+  text-align: center; }
